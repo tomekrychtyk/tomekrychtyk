@@ -35,7 +35,6 @@ Experienced Staff Software Engineer with a demonstrated history of working in th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tomekrychtyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tomekrychtyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
