@@ -8,7 +8,6 @@ Experienced Staff Software Engineer with a demonstrated history of working in th
 
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [tomek@rychtyk.pl](mailto:tomek@rychtyk.pl)
-* 🧠  I'm learning AWS - lost of different services!
 
 ### Skills
 
