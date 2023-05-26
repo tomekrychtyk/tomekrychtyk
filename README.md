@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tomek@rychtyk.pl**
 
-- ⚡ My favorite motto **Nulla dies sine linea**
+- ⚡ My life motto **Nulla dies sine linea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
