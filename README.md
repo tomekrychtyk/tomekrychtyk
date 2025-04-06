@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomekrychtyk" alt="tomekrychtyk" /></a> </p>
 
-- 🔭 I’m currently working on [zuzel.in](https://zuzel.in)
+- 🔭 I’m currently working on 🌟 [dabelo.pl](https://dabelo.pl)
 
 - 🌱 I’m currently learning **Nuxt.js and NestJS**
 
